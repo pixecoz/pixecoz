@@ -1,3 +1,4 @@
 ## Welcome
 
-My discord: `pixecoz`
+Discord: `pixecoz`
+Telegram: `pixecoz`
