@@ -1,5 +1,3 @@
 ## Welcome
 
-Discord: `pixecoz`
-
-Telegram: `pixecoz`
+Discord/Telegram: `pixecoz`
